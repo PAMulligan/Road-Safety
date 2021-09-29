@@ -1,0 +1,18 @@
+Files I modified or created:
+/mu-plugins/custom-post-types.php **I used this folder outside of the AWI folder because I was taught to put custom post types
+                                    in the mu-plugins folder. This prevents those custom types from being deleted if the theme
+                                    is ever changed. **
+/css/style.css
+/functions/custom.php
+/inc/footer.php
+/inc/header.php
+index.php
+searchform.php
+wp-config.php
+
+Synopsis:
+On Monday, I spent my time downloading the boilerplate, getting the site set up on my server, and coding all the HTML structure.
+On Tuesday, I did all the styling except for the footer, for full-size viewports.
+On Wednesday, I finished the full-sized styling, created the custom post types and ACF, and did all the responsive styling.
+
+I developed everything in VS Code, and tested functionality in Firefox and Chrome.
